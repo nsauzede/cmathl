@@ -41,7 +41,7 @@ Then, execute the following commands on the cli:
 
 ```shell
 $ git clone https://github.com/ScientificC/cmathl.git
-$ cd cml
+$ cd cmathl
 $ mkdir build
 $ cd build
 $ cmake .. <build options>
